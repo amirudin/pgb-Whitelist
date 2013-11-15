@@ -1,7 +1,7 @@
 pgb-Whitelist
 =============
 
-Access Element + Ajax
+Access Element + Ajax Request + PG 3.0
 
 Upon successful, you'll receive the following json data
 
