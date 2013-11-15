@@ -5,29 +5,17 @@
 	version="1.0.0">
 	
     <name>
-        Access Element (a.k.a whitelist)
+        Ajax Request
     </name>
     <description>
-        Access Element (a.k.a whitelist) test
+        Ajax Request Test App
     </description>
 
     <author href="https://sub.example.com" email="someone@email.com">
         Yourname
     </author>
 
-	<preference name="phonegap-version" value="3.0.0" />
-	<gap:plugin name="org.apache.cordova.network-information" />
-		
-	<feature name="http://api.phonegap.com/1.0/device"/>
-	<feature name="http://api.phonegap.com/1.0/battery"/>
-	<feature name="http://api.phonegap.com/1.0/camera"/>
-	<feature name="http://api.phonegap.com/1.0/contacts"/>
-	<feature name="http://api.phonegap.com/1.0/file"/>
-	<feature name="http://api.phonegap.com/1.0/geolocation"/>
-	<feature name="http://api.phonegap.com/1.0/media"/>
-	<feature name="http://api.phonegap.com/1.0/network"/>
-	<feature name="http://api.phonegap.com/1.0/notification"/>
-	
+	<preference name="phonegap-version" value="3.1.0" />
 	<access origin="*" />
  
 </widget>
