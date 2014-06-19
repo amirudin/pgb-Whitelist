@@ -15,7 +15,6 @@
         Yourname
     </author>
 
-	<preference name="phonegap-version" value="3.1.0" />
 	<access origin="*" />
  
 </widget>
